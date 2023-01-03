@@ -1,0 +1,91 @@
+footer {
+    background-color: #363636;
+    height: 460px;
+}
+
+footer .footer-info {
+    display: flex;
+    justify-content: space-around;
+    padding: 90px 60px 0 0;
+    color: #8d8698;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer .footer-info .image {
+    margin-bottom: 20px;
+}
+
+footer .footer-info .image img {
+    width: 25%;
+}
+
+footer .footer-info .info {
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+footer .footer-info .cards i {
+    color: white;
+    font-size: 30px;
+    margin: 10px 10px 20px 0;
+}
+
+footer .footer-info .secure {
+    font-size: 14px;
+}
+
+footer .footer-info .secure i {
+    font-size: 12px;
+    margin-right: 8px;
+}
+
+footer .footer-info .bestExperience {
+    padding-right: 100px;
+}
+
+footer .footer-info .bestExperience h3 {
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+footer .footer-info .bestExperience ul li {
+    list-style: none;
+    padding-bottom: 15px;
+}
+
+footer .footer-info .bestExperience ul li a {
+    color: #8d8698;
+    font-size: 17px;
+}
+
+footer .footer-info .company {
+    margin-right: 50px;
+}
+
+footer .footer-info .company h3 {
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+footer .footer-info .company ul li {
+    list-style: none;
+    padding-bottom: 15px;
+}
+
+footer .footer-info .company ul li a {
+    color: #8d8698;
+    font-size: 17px;
+}
+
+footer .menasiz {
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+
+footer .menasiz p {
+    font-size: 14px;
+    color: #8d8698;
+}
